@@ -6,7 +6,7 @@ package uk.ac.tees.scedt.a0123456.task1;
 
 /**
  *
- * @author b1505861
+ * @author b1505861 Hello
  */
 public class StudentRecord {
 
